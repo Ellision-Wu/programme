@@ -1,4 +1,4 @@
-print(1//2)
-a=12
-a= str(a)
-print(len(a))
+l=[]
+for line in open('as.txt'):
+    l.append(line[:-1])
+print(l[:2])
