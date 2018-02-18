@@ -1,5 +1,6 @@
 direction={}
 rev_dir={}
+
 def MergeSort(array,start,end):
     if start < end -1 :
         mid = (end  -start) // 2 + start
@@ -60,27 +61,29 @@ ano=[]
 def dfs(dic,start,reached):
     reached.append(start)
     try:
-        x = dic[start]
-        for i in range (len(x)):
-            print(i,end='')
-            if x[i] not in reached:
-                dfs(dic,x[i],reached)
+        for i in range (len(dic[start])):
+            if dic[start][i] not in reached:
+                dfs(dic,dic[start][i],reached)
     except KeyError:
-        pass
-    except RuntimeError :
         pass
 
 xx=[]
+keys = dict.keys(direction)
+values = dict.keys(rev_dir)
 for i in range(len(direction)):
     if i+1 not in xx:
-        print(i+1,end='')
+
         dfs(direction,i+1,xx)
 xx=xx[::-1]
-'''
+
+#print(xx)
+
 for i in range(len(xx)):
-    if xx[i] not in reached:
+    if xx[i] not in reached and xx[i] in values and xx[i] in keys:
         dfs_rev(rev_dir,xx[i],reached,rev)
 rev=rev[::-1]
+
+#print(rev)
 
 lens = [] 
 
@@ -94,7 +97,7 @@ for i in range(len(lens)-1):
     out.append(lens[-i-1]-lens[-i-2])
 out.append(lens[0])
 MergeSort(out,0,len(out))
-out=out[::-1]'''
-print(xx)
+out=out[::-1]
+print(out)
 
 
