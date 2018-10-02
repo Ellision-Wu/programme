@@ -1,0 +1,20 @@
+# Fdb version 3
+["pdflatex"] 1508925895 "123.tex" "123.pdf" "123" 1508925895
+  "/usr/local/texlive/2017/texmf-dist/tex/generic/unicode-data/CaseFolding.txt" 1480098819 78161 e3fbf2f626f10070000fe66f3a2ff5ef ""
+  "/usr/local/texlive/2017/texmf-dist/tex/generic/unicode-data/SpecialCasing.txt" 1480098819 16830 fea30f45a2f81ffa474fd984d297e2ea ""
+  "/usr/local/texlive/2017/texmf-dist/tex/generic/unicode-data/UnicodeData.txt" 1480098819 1686443 dde25b1cf9bbb4ba1140ac12e4128b0b ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls" 1480098821 19821 310da678527a7dfe2a02c88af38079b7 ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo" 1480098821 8292 e897c12e1e886ce77fe26afc5d470886 ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec.sty" 1491002578 1704 f155bd31324526584df93d8880629e82 ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex" 1494801658 689208 a4a1f960caacd72906628f3f1a2e3b4c ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3.sty" 1494801658 9344 31607e39934aa760394a75d15a0594e0 ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/l3pdfmode.def" 1494801658 10255 ae20359c06d3acc750024781d0520fe6 ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1494801658 76757 9db3143638eba1ea8405900fbbcff235 ""
+  "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
+  "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1508663725 4129593 52506ec437db7bc383cffc996c3050ac ""
+  "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
+  "123.aux" 1508925843 8 a94a2480d3289e625eea47cd1b285758 ""
+  "123.tex" 1508925894 15463 3c83179b0677c3f7591bc3d8810ee624 ""
+  (generated)
+  "123.log"
+  "123.pdf"

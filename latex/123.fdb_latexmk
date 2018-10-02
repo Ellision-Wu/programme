@@ -1,0 +1,26 @@
+# Fdb version 3
+["xdvipdfmx"] 1508763518 "123.xdv" "123.pdf" "123" 1508926175
+  "123.xdv" 1508763518 3280 3c6579dde03acf00c42b94fecbbdbc1f "xelatex"
+  (generated)
+  "123.pdf"
+["xelatex"] 1508926007 "123.tex" "123.xdv" "123" 1508926175
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1480098820 2210 5c54ab129b848a5071554186d0168766 ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty" 1480098820 4160 c115536cf8d4ff25aa8c1c9bc4ecb79a ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty" 1485129665 84329 81aa65c5042562f79cb421feff9b8bdc ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty" 1480098820 4115 318a66090112f3aa3f415aeb6fe8540f ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty" 1480098820 2431 fe3078ec12fc30287f568596f8e0b948 ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls" 1480098821 19821 310da678527a7dfe2a02c88af38079b7 ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/base/latexsym.sty" 1480098821 2854 d9a09e80ec53a1710adc74c0e8300370 ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo" 1480098821 8303 1d67e16498f00f63da792fab169302fc ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/times.sty" 1480098837 857 6c716f26c5eadfb81029fcd6ce2d45e6 ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty" 1480098842 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
+  "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
+  "/usr/local/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt" 1508663706 3678534 e68bc6bc7587aa8a89cf0dc388220023 ""
+  "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
+  "123.aux" 1508926007 8 a94a2480d3289e625eea47cd1b285758 ""
+  "123.tex" 1508926007 516 ad7d492052325b56bc9c6f26a0b975c1 ""
+  "macros.tex" 1346136076 15263 617fd9c071c5bdbc4f36b17c516bb755 ""
+  (generated)
+  "123.aux"
+  "123.xdv"
+  "123.log"

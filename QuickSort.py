@@ -47,7 +47,7 @@ def QuickSort(array,start,end):
         return
     else:
         pass
-
+print(a)
 QuickSort(a,0,len(a))
 #print(a)
 print(a,count)
